@@ -3410,7 +3410,7 @@
 				background-color: #2e3141;
 				background-image: 
 					linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(53, 68, 54, 0.8)),
-					url("../../images/grass_overhead.png")
+					url("../../images/grass_overhead.png");
 
 				background-size: auto,
  cover;
@@ -3569,7 +3569,7 @@
 			padding: 9em 0 6.25em 0 ;
 			background-color: #2e3141;
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), 
-				url("../../images/grass_overhead.png")
+				url("../../images/grass_overhead.png");
 
 			background-size: auto,
  cover;
@@ -4021,7 +4021,7 @@
  center;
 			margin-top: -6.5em;
 			padding-top: 6.5em;
-			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/grass_overhead.png")
+			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/grass_overhead.png");
 
 		}
 
