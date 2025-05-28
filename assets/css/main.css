@@ -3977,6 +3977,9 @@ center;
 		flex-wrap: wrap;
 		margin: 0 auto;
 		width: 55em;
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/grass_overhead.png");
+
+		}
 		
 		
 	}
